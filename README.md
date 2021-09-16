@@ -1,6 +1,12 @@
 # Search-engine-
 Coursework project
 
+Key libaries used
+- Natural language tool kit 
+- Beautiful Soup
+- Numpy 
+- requests
+
 - Information retreival module 
 - Verticle search engine for google scholar profiles of conventry university researchers. 
 - uses a custom webcrawler 
